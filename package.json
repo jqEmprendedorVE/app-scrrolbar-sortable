@@ -1,0 +1,19 @@
+{
+  "name": "test-tecnico",
+  "version": "1.0.0",
+  "description": "Single page application that displays a list of items. These items include a picture and a description.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jqEmprendedorVE/app-scrrolbar-sortable.git"
+  },
+  "author": "Julio Quintana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jqEmprendedorVE/app-scrrolbar-sortable/issues"
+  },
+  "homepage": "https://github.com/jqEmprendedorVE/app-scrrolbar-sortable#readme"
+}
